@@ -1,0 +1,10 @@
+# NmN's local activity log — machine-specific, never share
+nmn.log
+
+# Local Claude Code permission rules — contains local paths
+.claude/settings.local.json
+
+# Windows / editor noise
+Thumbs.db
+desktop.ini
+*.lnk
