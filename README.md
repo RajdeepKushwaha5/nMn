@@ -10,7 +10,7 @@ It is not a screen scraper. It never reads pixels, never uses screen
 coordinates, and never moves your mouse.
 
 <p align="center">
-  <a href="https://github.com/RajdeepKushwaha5/nMn/releases/latest">
+  <a href="https://github.com/RajdeepKushwaha5/nMn/archive/refs/tags/v0.1.0.zip">
     <img alt="Download NmN"
          src="https://img.shields.io/badge/Download-NmN%20v0.1.0-2ecc71?style=for-the-badge&logo=windows&logoColor=white">
   </a>
@@ -21,6 +21,16 @@ coordinates, and never moves your mouse.
 <p align="center">
   <b>Unzip → double-click <code>Install.bat</code> → done.</b><br>
   No runtime, no dependencies, no admin rights.
+</p>
+
+<p align="center">
+  <img src="docs/demo.gif" width="720"
+       alt="A Claude Code permission prompt appears and is confirmed automatically">
+</p>
+
+<p align="center">
+  <i>A permission prompt appears and answers itself. Slowed slightly for
+  legibility — in practice NmN confirms in about 0.6s.</i>
 </p>
 
 ---
