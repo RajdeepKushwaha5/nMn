@@ -9,6 +9,20 @@ a time**, and only acts while VS Code is the window you're actually looking at.
 It is not a screen scraper. It never reads pixels, never uses screen
 coordinates, and never moves your mouse.
 
+<p align="center">
+  <a href="https://github.com/RajdeepKushwaha5/nMn/releases/latest">
+    <img alt="Download NmN"
+         src="https://img.shields.io/badge/Download-NmN%20v0.1.0-2ecc71?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+  <img alt="Platform" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078d4?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
+</p>
+
+<p align="center">
+  <b>Unzip → double-click <code>Install.bat</code> → done.</b><br>
+  No runtime, no dependencies, no admin rights.
+</p>
+
 ---
 
 ## Read this first
